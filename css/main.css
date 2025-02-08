@@ -213,7 +213,8 @@ header .btn-primary:hover {
 .about .icon {text-transform: uppercase;text-align: center;}
 .about .heading {text-transform: uppercase;text-align: center;padding-bottom: 20px;}
 .about .heading h3 {font-size: 34px;font-weight: 700;letter-spacing: -1.5px;padding-bottom: 15px;}
-.about .heading h4 {font-size: 16px;font-weight: 500;letter-spacing: 0.5px;padding-bottom: 60px;}
+.about .heading h4 {font-size: 16px;font-weight: 500;letter-spacing: 0.5px;padding-bottom: 10px;}
+.about .heading h4:last-child {font-size: 16px;font-weight: 500;letter-spacing: 0.5px;padding-bottom: 60px;}
 .about .icon .fa {
     color: #2cbf84;
     font-size: 60px;
